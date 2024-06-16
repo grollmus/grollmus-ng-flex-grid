@@ -1,0 +1,29 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.suggest.insertMode": "replace"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
+    "editor.bracketPairColorization.enabled": true,
+    "editor.formatOnSaveMode": "file",
+    "files.autoSave": "onFocusChange",
+    "explorer.autoReveal": true,
+    "css.lint.important": "warning",
+    "scss.lint.important": "warning",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "vs-code-prettier-eslint.prettierLast": false,
+    "search.exclude": {
+      "**/.angular": true,
+      "**/.nx": true,
+      "**/.coverage": true,
+      "**/.test-results": true,
+      "**/node_modules": true
+    }
+  }
+  
